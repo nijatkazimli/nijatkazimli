@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Dev Meme
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Felye-project.medium.com%2F100-programming-memes-that-express-the-developers-agony-49246a14615b&psig=AOvVaw3VBTNs1iWatxLpfZOZtOe7&ust=1686606013260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj9o5SXvP8CFQAAAAAdAAAAABAZ/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nijatkazimli&icon=0&color=0)](https://visitcount.itsvg.in)
