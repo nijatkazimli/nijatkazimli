@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Felye-project.medium.com%2F100-programming-memes-that-express-the-developers-agony-49246a14615b&psig=AOvVaw3VBTNs1iWatxLpfZOZtOe7&ust=1686606013260000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj9o5SXvP8CFQAAAAAdAAAAABAZ/](https://miro.medium.com/v2/resize:fit:640/0*8sMmeJlSwus9ZhJI)" width="512px"/>
+<img src="https://miro.medium.com/v2/resize:fit:640/0*8sMmeJlSwus9ZhJI" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nijatkazimli&icon=0&color=0)](https://visitcount.itsvg.in)
