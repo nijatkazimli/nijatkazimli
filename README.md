@@ -16,7 +16,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😄 Dev Meme
-<img src="https://miro.medium.com/v2/resize:fit:640/0*8sMmeJlSwus9ZhJI" width="512px"/>
+<p allign="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/0*8sMmeJlSwus9ZhJI" width="512px"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nijatkazimli&icon=0&color=0)](https://visitcount.itsvg.in)
