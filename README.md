@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
+### 😄 Dev Meme
 <img src="https://miro.medium.com/v2/resize:fit:640/0*8sMmeJlSwus9ZhJI" width="512px"/>
 
 ---
