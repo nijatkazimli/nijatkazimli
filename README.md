@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Salesforce DevOps Engineer Intern at Procter and Gamble<br>🌱 Computer Science student at Warsaw University of Technology
+🤝 DevOps Engineer at Procter and Gamble<br>🌱 Computer Science student at Warsaw University of Technology
 
 
 ## 🌐 Socials:
