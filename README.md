@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 DevOps Engineer at Procter and Gamble<br>🌱 Computer Science student at Warsaw University of Technology
+🤝 Software Engineer at Procter and Gamble<br>🌱 Computer Science student at Warsaw University of Technology
 
 
 ## 🌐 Socials:
